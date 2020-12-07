@@ -13,6 +13,7 @@
 .reviews {
     font-style: italic;
     text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
 }
 .pagetitles {
@@ -23,5 +24,8 @@
 iframe {
     text-align: center;
     height: 400px;
-    width: 2100px;
+    width: 1338px;
+}
+.contactinfo {
+    text-align: center;
 }
