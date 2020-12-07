@@ -1,0 +1,28 @@
+
+
+#background {
+    background-color: #FFD300;
+}
+
+.buttons {
+    background-color: white;
+    border-color: black;
+    border-style: dotted solid dotted solid;
+    display: inline-flex;
+    text-decoration: none;
+}
+.reviews {
+    font-style: italic;
+    text-align: center;
+    
+}
+.pagetitles {
+    text-align: center;
+    font-weight: bolder;
+    background-color: blueviolet;
+}
+iframe {
+    text-align: center;
+    height: 400px;
+    width: 2100px;
+}
