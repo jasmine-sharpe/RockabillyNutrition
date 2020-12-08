@@ -2,6 +2,7 @@
 
 #background {
     background-color: #FFF192;
+    text-align: center;
 }
 
 .buttons {
@@ -12,7 +13,6 @@
 }
 .reviews {
     font-style: italic;
-    text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
 }
@@ -28,6 +28,5 @@ iframe {
     width: 1338px;
 }
 .contactinfo {
-    text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
