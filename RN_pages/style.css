@@ -1,7 +1,7 @@
 
 
 #background {
-    background-color: #FFD300;
+    background-color: #FFF192;
 }
 
 .buttons {
@@ -19,7 +19,8 @@
 .pagetitles {
     text-align: center;
     font-weight: bolder;
-    background-color: blueviolet;
+    background-color: #B8E2F2;
+    
 }
 iframe {
     text-align: center;
@@ -28,4 +29,5 @@ iframe {
 }
 .contactinfo {
     text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
