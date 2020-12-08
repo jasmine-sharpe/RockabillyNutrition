@@ -30,3 +30,9 @@ iframe {
 .contactinfo {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+.righttable {
+    text-align: right;
+}
+.lefttable {
+    text-align: left;
+}
