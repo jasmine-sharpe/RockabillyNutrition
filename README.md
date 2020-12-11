@@ -1,2 +1,8 @@
 # RockabillyNutrition
- 
+ Hello! Our group name is The HTML Girls, andd our groups consists of Morgan Harvison and Jasmine Sharpe. We attend Madison Academic Magnet High School
+
+ Jasmine Sharpe:
+I worked on the index, mission, and contact us pages. I also completed the CSS pages.
+There were several problems we faced as a duo in completing our website. For a while, neither of us knew how to open our website page in the first place. I tried everything I thought to open it. Howevere, I figured it out luckily through a couple YouTube searches. Another problem I faced was not seeing my CSS work on my website. I made sure the code of the CSS page was proper, but the actual CSS commands weren't working. I later figured out that the CSS page was not apart of the file, and the file was on the outside of the entire project. The final bigger issue I faced was just figuring out how to put everthing together and how it will complimment each other. To fix this, I decided to browse around other food/drink websites to get inspiration on how i might want things to look. This really helped me figure out more things to put on the CSS page as well as giving the website in total a better feel. From this project, I realized that I really like working with code. Having your own ideas being brought to life reall amazes me. I wanted to work with computers when I was younger, but in middle school the dream kind of died. However, my love of computers really grew from this project. I am now considering going to school to work in a field of engineering that would let me also work in code, such as a software engineer.
+
+ Morgan Harvison:
