@@ -1,5 +1,5 @@
 # RockabillyNutrition
- Hello! Our group name is The HTML Girls, andd our groups consists of Morgan Harvison and Jasmine Sharpe. We attend Madison Academic Magnet High School
+ Hello! Our group name is The HTML Girls, and our groups consists of Morgan Harvison and Jasmine Sharpe. We attend Madison Academic Magnet High School
 
  Jasmine Sharpe:
 I worked on the index, mission, and contact us pages. I also completed the CSS pages.
